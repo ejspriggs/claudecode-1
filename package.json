@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-heroku",
+  "version": "1.0.0",
+  "description": "A simple Hello World web page deployable to Heroku",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": [
+    "heroku",
+    "express",
+    "hello-world"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
